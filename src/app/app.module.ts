@@ -17,7 +17,6 @@ import { FaturamentoService } from './faturamento/faturamento.service';
 import { TesteModule } from './teste/teste.module';
 import { OlaMundoComponent } from './ola-mundo/ola-mundo.component';
 
-
 @NgModule({
   declarations: [
     AppComponent,
